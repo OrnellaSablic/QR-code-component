@@ -23,7 +23,7 @@ main {
 section {
     background-color: #FFFFFF;
     padding: .8rem;
-    /* margin: 4rem auto; */
+    margin: 0 0 3rem 0;
     border-radius: 15px;
     text-align: center;
     width: 300px;
@@ -60,10 +60,4 @@ span p {
 span a {
     text-decoration: none;
     color: #1F3251;
-}
-
-@media (min-width:1024px) {
-     section {
-        margin: 6rem auto;
-    } 
 }
